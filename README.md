@@ -23,7 +23,6 @@
 ![CSS3](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ![Vue.js](https://img.shields.io/badge/vue-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
-![React.js](https://img.shields.io/badge/vue-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
 
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Swagger](https://img.shields.io/badge/swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=white)
