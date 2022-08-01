@@ -29,7 +29,7 @@
 
 ### Tools
 ![NVIDIA](https://img.shields.io/badge/nvidia-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white)
-
+![Intel](https://img.shields.io/badge/Intel-%2376B900.svg?&style=for-the-badge&logo=intel&logoColor=white)
 ![JetBrains](https://img.shields.io/badge/jetbrains-%23000000.svg?&style=for-the-badge&logo=jetbrains&logoColor=white)
 ![VSCode](https://img.shields.io/badge/vscode-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Chrome](https://img.shields.io/badge/google%20chrome-%234285F4.svg?&style=for-the-badge&logo=google%20chrome&logoColor=white)
