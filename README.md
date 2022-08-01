@@ -28,8 +28,8 @@
 ![Swagger](https://img.shields.io/badge/swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=white)
 
 ### Tools
-![NVIDIA](https://img.shields.io/badge/nvidia-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white)
 ![Intel](https://img.shields.io/badge/Intel-%23007ACC.svg?&style=for-the-badge&logo=intel&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/nvidia-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white)
 
 ![JetBrains](https://img.shields.io/badge/jetbrains-%23000000.svg?&style=for-the-badge&logo=jetbrains&logoColor=white)
 ![VSCode](https://img.shields.io/badge/vscode-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
