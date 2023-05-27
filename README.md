@@ -2,7 +2,7 @@
 <details open>
 <summary>Code times</summary>
 
-[![starNGC2237's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zhilutianji&layout=compact)](https://github.com/starNGC2237)
+[![starNGC2237's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zhilutianji&layout=compact&range=last_7_days)](https://github.com/starNGC2237)
 
 </details>
 <details open>
