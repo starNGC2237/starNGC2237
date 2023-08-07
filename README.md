@@ -5,7 +5,7 @@
 [![starNGC2237's wakatime stats](https://github-readme-stats-lilac-ten-33.vercel.app/api/wakatime?username=zhilutianji&layout=compact&range=last_7_days)](https://github.com/starNGC2237)
 
 </details>
-<details>
+<details open>
 <summary>languages</summary>
   
 [![Top Langs](https://github-readme-stats-lilac-ten-33.vercel.app/api/top-langs?username=starNGC2237)](https://github.com/anuraghazra/github-readme-stats)
