@@ -15,7 +15,6 @@
 ### Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
@@ -34,8 +33,6 @@
 ![JetBrains](https://img.shields.io/badge/jetbrains-%23000000.svg?&style=for-the-badge&logo=jetbrains&logoColor=white)
 ![VSCode](https://img.shields.io/badge/vscode-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Chrome](https://img.shields.io/badge/google%20chrome-%234285F4.svg?&style=for-the-badge&logo=google%20chrome&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=Windows%20Terminal&logoColor=white)
 
 ![Windows](https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/ubuntu-%23E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-%23A22846.svg?&style=for-the-badge&logo=raspberry%20pi&logoColor=white)
